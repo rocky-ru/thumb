@@ -1,0 +1,33 @@
+{
+  "name": "thumb",
+  "version": "1.0.0",
+  "description": "A test program for es6,systemjs,jquery-plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocky-ru/thumb.git"
+  },
+  "keywords": [
+    "es6",
+    "systemjs",
+    "jquery-plugins"
+  ],
+  "author": "r37",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocky-ru/thumb/issues"
+  },
+  "homepage": "https://github.com/rocky-ru/thumb#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "jasmine-core": "^3.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7+deprecated"
+  }
+}
